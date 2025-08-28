@@ -22,7 +22,7 @@ You need to install the required Python libraries. All dependencies are listed i
 
 **1. Clone the Repository:**
 
-    git clone https://github.com/your-username/Tkinter-ChatBot.git
+    git clone https://github.com/muhammadsouman7/Tkinter-ChatBot.git
     cd Tkinter-ChatBot
 
 **2. Install Libraries:**
